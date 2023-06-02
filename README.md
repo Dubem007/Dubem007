@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Amazing stuffs ...
 - 📫 How to reach me: Dubem@007
 - 😄 Pronouns: That guy
-- ⚡ Fun fact: ...
-//dotekeiwebia@yahoo.com
+- Yo can reach me via any of these mediums.
+dotekeiwebia@yahoo.com
 
