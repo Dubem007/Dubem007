@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Dubem007/Dubem007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Dubem,I'm a senior software Engineer with experience deploying innovative solutions using .net, C#, Nodejs,TypeScript
 
 Here are some ideas to get you started:
 
