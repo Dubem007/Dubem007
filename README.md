@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **I am Dubem,I'm a senior software Engineer with experience deploying innovative solutions using .net, C#, Nodejs,TypeScript
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: That guy
 - ⚡ Fun fact: ...
 //dotekeiwebia@yahoo.com
--->
+
