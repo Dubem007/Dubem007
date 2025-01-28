@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am Dubem,I'm a senior software Engineer with experience deploying innovative solutions using .net, C#, Nodejs,TypeScript
+**I am Dubem,I'm a senior software Engineer with experience deploying innovative solutions using .net, C#,Java, Nodejs,TypeScript
 
 Here are some ideas to get you started:
 
